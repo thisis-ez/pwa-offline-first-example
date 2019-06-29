@@ -1,0 +1,15 @@
+.offline-icon {
+  margin-top: -2rem;
+  width: 5rem;
+  height: 5rem;
+}
+
+.offline-icon-hidden {
+  visibility: hidden;
+}
+
+.hidden-toast-close-button {
+  position: absolute;
+  margin-left: -100rem;
+  visibility: hidden;
+}
